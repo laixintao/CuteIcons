@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<path d="M51,0H17v63h34V0z M23,6V5h22v23h-1H23V6z M45,59h-1H23V37v-1h22V59z M46.875,34.375c-1.378,0-2.5-1.122-2.5-2.5
+		s1.122-2.5,2.5-2.5s2.5,1.122,2.5,2.5S48.253,34.375,46.875,34.375z"/>
+	<polygon points="27,41 27,40.344 24,37.627 24,57.293 27,54.293 	"/>
+	<polygon points="40,55 27.707,55 24.707,58 43.293,58 40.293,55 	"/>
+	<polygon points="40.293,40 43.293,37 24.797,37 28.109,40 	"/>
+	<polygon points="41,54.293 44,57.293 44,37.707 41,40.707 	"/>
+	<polygon points="27,10 27,9.344 24,6.627 24,26.293 27,23.293 	"/>
+	<polygon points="40,24 27.707,24 24.707,27 43.293,27 40.293,24 	"/>
+	<polygon points="40.293,9 43.293,6 24.797,6 28.109,9 	"/>
+	<polygon points="41,23.293 44,26.293 44,6.707 41,9.707 	"/>
+	<rect x="28" y="10" width="12" height="13"/>
+	<rect x="28" y="41" width="12" height="13"/>
+	<circle cx="46.875" cy="31.875" r="1.5"/>
+</g>
+</svg>

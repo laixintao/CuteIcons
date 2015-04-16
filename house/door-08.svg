@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<path d="M17,8.893V63h30V8.897C45.569,8.578,40.163,7.5,32.5,7.5C23.702,7.5,18.393,8.572,17,8.893z M44,61h-1H20V44v-1h24V61z
+		 M44,41h-1H20V24v-1h24V41z M44,12.084V21h-1H20v-8.5v-0.406l0.397-0.083C20.445,12,25.277,11,32.125,11
+		c5.977,0,11.412,0.999,11.467,1.008L44,12.084z"/>
+	<path d="M48,49h12c0-3.478,0-7.259,0-11H48V49z"/>
+	<path d="M48,63h12c0-1.921,0-6.446,0-12H48V63z"/>
+	<path d="M48,23h12c0-3.896,0-6.797,0-7.867c-4.698-3.314-10.157-5.32-12-5.944V23z"/>
+	<path d="M48,36h12c0-3.916,0-7.717,0-11H48V36z"/>
+	<rect x="4" y="38" width="12" height="11"/>
+	<rect x="4" y="51" width="12" height="12"/>
+	<path d="M4,23h12V9.192c-1.833,0.628-7.234,2.636-12,5.943V23z"/>
+	<rect x="4" y="25" width="12" height="11"/>
+	<polygon points="21,20 30.406,20 21,13.457 	"/>
+	<path d="M33,12.007v7.188l9.201-6.401C40.423,12.526,36.887,12.07,33,12.007z"/>
+	<polygon points="43,20 43,13.457 33.594,20 	"/>
+	<path d="M31,19.195V12.01c-4.242,0.068-7.558,0.504-9.22,0.772L31,19.195z"/>
+	<polygon points="41,37.293 43,39.293 43,24.707 41,26.707 	"/>
+	<polygon points="40.293,26 42.293,24 21.707,24 23.707,26 	"/>
+	<polygon points="23,27 23,26.707 21,24.707 21,39.293 23,37.293 	"/>
+	<polygon points="40,38 23.707,38 21.707,40 42.293,40 40.293,38 	"/>
+	<rect x="24" y="27" width="16" height="10"/>
+	<polygon points="23,47 23,46.707 21,44.707 21,59.293 23,57.293 	"/>
+	<polygon points="40.293,46 42.293,44 21.707,44 23.707,46 	"/>
+	<polygon points="40,58 23.707,58 21.707,60 42.293,60 40.293,58 	"/>
+	<polygon points="41,57.293 43,59.293 43,44.707 41,46.707 	"/>
+	<rect x="24" y="47" width="16" height="10"/>
+</g>
+</svg>
