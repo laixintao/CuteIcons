@@ -8,3 +8,8 @@ License: (by-sa-nd) Free for commercial use (link to author, no derivative works
 Original source: http://www.webhostingsecretrevealed.net/discount-freebies/free-icons/leaf/ 
 
 
+## RULE 
+
+- png 256*256 4k
+- ico 48*48 19k
+- icns unknow :(
